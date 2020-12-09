@@ -1,4 +1,4 @@
-# CheatBreakerPlus SRC aka my wurstplustwo past
+# CheatBreakerPlus SRC aka my wurstplustwo paste
 
 This is my "meme" client 
 most of the code is pasted from 
