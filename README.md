@@ -28,4 +28,6 @@ CGrego a person who i trusted go to far and leaked
 - Bope for pasted code and base
 - Trvsf and WurstplusTwo for the base
 
+![donwloads](https://img.shields.io/github/downloads/WarriorCrystal/CheatBreakerPlus-src/total)
+
  
