@@ -1,0 +1,15 @@
+[{
+	"modid"        : "cheatbreakerplus",
+	"name"         : "CheatBreakerPlus",
+	"description"  : "this is based",
+	"version"      : "b7",
+	"mcversion"    : "1.12.2-14.23.5.2772",
+	"url"          : "https://github.com/warriorcrystal",
+	"updateUrl"    : "https://github.com/warriorcrystal",
+	"authorList"   : ["Warrior"],
+	"credits"      : "Warrior",
+	"logoFile"     : "wurstplus.png",
+	"screenshots"  : [],
+	"dependencies" : []
+
+}]
