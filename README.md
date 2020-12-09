@@ -7,6 +7,7 @@ most of the code is pasted from
 - Salhack
 - Bope
 - Zori
+- EmpHack
 
 only like 5 modules are from my own code 
 
@@ -23,6 +24,7 @@ CGrego a person who i trusted go to far and leaked
 - Xulu for pasted code
 - SalHack for pasted code
 - Zori for pasted code
+- EmpHack for pasted code
 - Bope for pasted code and base
 - Trvsf and WurstplusTwo for the base
 
