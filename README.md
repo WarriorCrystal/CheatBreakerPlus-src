@@ -16,4 +16,12 @@ The src is in b7 i was making a better antiafk and it has a autoqueuemain if you
 
 CGrego a person who i trusted go to far and leaked 
 
+# Credits
+
+- Osiris for pasted code
+- Xulu for pasted code
+- SalHack for pasted code
+- Bope for pasted code and base
+- Trvsf and WurstplusTwo for the base
+
  
