@@ -14,7 +14,7 @@ only like 5 modules are from my own code
 The src is in b7 i was making a better antiafk and it has a autoqueuemain if you want to build it, the posted in releases is b6
 
 
-# Why did i leak?
+# Why did i make it public?
 
 CGrego a person who i trusted go to far and leaked 
 
