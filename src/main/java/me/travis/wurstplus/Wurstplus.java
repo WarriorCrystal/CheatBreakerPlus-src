@@ -59,9 +59,6 @@ public class Wurstplus {
 		module_manager = new WurstplusModuleManager();
 		hud_manager = new WurstplusHUDManager();
 		
-                Wurstplus.get_hack_manager().get_module_with_tag("RichPresence").is_active()) {
-		        DiscordUtils.init();
-		}
 
 		WurstplusEventManager event_manager = new WurstplusEventManager();
 		WurstplusCommandManager command_manager = new WurstplusCommandManager(); // hack
